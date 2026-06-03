@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Akash Child Clinic",
+  "description": "Modern website for Dr. Akash Child Clinic, offering expert pediatric consultation, newborn care, and pediatric nephrology services by an AIIMS alumnus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
